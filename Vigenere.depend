@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1636760059 source:d:\ahmed\tasks\vigenere\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+	<string>
+	<iomanip>
+	<vector>
+
